@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from scipy.optimize import minimize
-from likelihood_24_noinv import funct
+from PythonSample2_likelihood_24_noinv import funct
 from numpy.linalg import LinAlgError
 from tabulate import tabulate
 
